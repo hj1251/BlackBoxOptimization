@@ -1,4 +1,4 @@
-# README — Critical Reflection on Query Strategy (Iteration 3)
+# Critical Reflection on Query Strategy (Iteration 3)
 ## Overview
 
 This document provides a critical reflection on the query strategy adopted in the third iteration of the optimisation process. The focus is on how modelling assumptions, uncertainty estimates, and decision rules evolved under limited data and high-dimensional black-box settings.
