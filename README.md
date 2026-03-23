@@ -101,6 +101,9 @@ The balance between exploration and exploitation is adjusted dynamically based o
 
 Early stages and high-dimensional settings emphasize exploration, while exploitation is applied selectively when consistent high-performing regions are identified.
 
+## Documentation
 
+- [Datasheet](./datasheet.md)
+- [Model Card](./model_card.md)
 
 
